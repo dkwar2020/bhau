@@ -1,2 +1,8 @@
-[] testing
-[] naya testing
+- [] testing
+- [] naya testing
+
+~~ strike through ~~
+term 
+: definition
+
+### My Great heading

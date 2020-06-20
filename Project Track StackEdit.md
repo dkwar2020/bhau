@@ -6,8 +6,8 @@
 > Perforce upgrade
 > OS upgrade
 > [] Need to connect with Tech 
-> ![Lambda](https://drive.google.com/file/d/1xpyklyWwbrZ8q9dwLVfQ9GqsWAmM2i6A/view?usp=sharing)
+> ![Lambda][https://drive.google.com/drive/folders/1MondO-3psEBPP0-uLSCjcE35Hh9XzvUK](https://drive.google.com/drive/folders/1MondO-3psEBPP0-uLSCjcE35Hh9XzvUK)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM4Njc3ODYsLTIxMDIzNzM2MTNdfQ
-==
+eyJoaXN0b3J5IjpbMTM4MjU4NDE5NCwtMTIzMzg2Nzc4NiwtMj
+EwMjM3MzYxM119
 -->
